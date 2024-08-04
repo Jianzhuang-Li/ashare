@@ -1,0 +1,30 @@
+{
+   "basic_identifiers":[
+        "Year",
+        "Season",
+        "Climate",
+        "City",
+        "Country",
+        "Building type"
+    ],
+    "personal_information":[
+        "Age",
+        "Sex"
+    ],
+    "thermal_comfor_info":[
+        "Clo",
+        "Met"
+    ],
+    "thermal_confort_measurements":[
+        "Air temperature (C)",
+        "Relative humidity (%)",
+        "Air velocity (m/s)"
+    ],
+    "calculated_indices":[
+    ],
+    "environment_control":[
+        "Outdoor monthly air temperature (C)"
+    ],
+    "label": "Thermal comfort",
+    "max_nan_rate": 0.67
+}
